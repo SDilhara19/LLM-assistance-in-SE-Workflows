@@ -1,0 +1,155 @@
+sequence_key,Participant ID,Cohort,Condition,total_duration_sec,n_actions,ends_in_submit
+"('S10', 'S1', 'Q1')",S10,1st_year,with_AI,74.0,2,False
+"('S10', 'S1', 'Q2')",S10,1st_year,with_AI,124.0,3,False
+"('S10', 'S1', 'Q3')",S10,1st_year,with_AI,95.0,3,False
+"('S10', 'S1', 'Q4')",S10,1st_year,with_AI,61.0,3,False
+"('S10', 'S2', 'Q1')",S10,1st_year,with_AI,99.0,3,False
+"('S10', 'S2', 'Q2')",S10,1st_year,with_AI,95.0,4,False
+"('S10', 'S2', 'Q3')",S10,1st_year,with_AI,96.0,2,False
+"('S10', 'S2', 'Q4')",S10,1st_year,with_AI,87.0,2,False
+"('S10', 'S2', 'Q5')",S10,1st_year,with_AI,79.0,4,False
+"('S10', 'S2', 'Q6')",S10,1st_year,with_AI,59.0,2,False
+"('S10', 'S3', 'Q1')",S10,1st_year,with_AI,95.0,2,False
+"('S10', 'S3', 'Q2')",S10,1st_year,with_AI,63.0,2,False
+"('S10', 'S4', 'Q1')",S10,1st_year,with_AI,243.0,3,False
+"('S10', 'S4', 'Q2')",S10,1st_year,with_AI,37.0,2,False
+"('S10', 'S5', 'Q1')",S10,1st_year,with_AI,60.0,2,False
+"('S10', 'S6', 'Q1')",S10,1st_year,with_AI,72.0,2,False
+"('S10', 'S6', 'Q2')",S10,1st_year,with_AI,283.0,6,False
+"('S10', 'S6', 'Q3')",S10,1st_year,with_AI,55.0,2,False
+"('S10', 'S6', 'Q4')",S10,1st_year,with_AI,139.0,6,False
+"('S14', 'S1', 'Q1')",S14,1st_year,with_AI,1256.0,27,False
+"('S14', 'S1', 'Q1, Q2, Q3, Q4')",S14,1st_year,with_AI,11.0,1,False
+"('S14', 'S1', 'Q2')",S14,1st_year,with_AI,246.0,7,False
+"('S14', 'S1', 'Q3')",S14,1st_year,with_AI,97.0,4,False
+"('S14', 'S1', 'Q4')",S14,1st_year,with_AI,150.0,5,False
+"('S14', 'S2', 'Q1')",S14,1st_year,with_AI,129.0,4,False
+"('S14', 'S2', 'Q1, Q3, Q2, Q4, Q5')",S14,1st_year,with_AI,47.0,1,False
+"('S14', 'S2', 'Q1, Q3, Q2, Q4, Q6')",S14,1st_year,with_AI,39.0,1,False
+"('S14', 'S2', 'Q1, Q3, Q2, Q4, Q7')",S14,1st_year,with_AI,49.0,1,False
+"('S14', 'S2', 'Q2')",S14,1st_year,with_AI,89.0,2,False
+"('S14', 'S2', 'Q3')",S14,1st_year,with_AI,40.0,2,False
+"('S14', 'S2', 'Q4')",S14,1st_year,with_AI,38.0,2,False
+"('S14', 'S2', 'Q6')",S14,1st_year,with_AI,43.0,2,False
+"('S14', 'S3', 'Q1')",S14,1st_year,with_AI,337.0,14,False
+"('S14', 'S3', 'Q2')",S14,1st_year,with_AI,105.0,6,False
+"('S14', 'S4', 'Q1')",S14,1st_year,with_AI,168.0,7,False
+"('S14', 'S5', 'Q1')",S14,1st_year,with_AI,163.0,7,False
+"('S14', 'S6', 'Q1')",S14,1st_year,with_AI,230.0,5,False
+"('S14', 'S6', 'Q2')",S14,1st_year,with_AI,35.0,2,False
+"('S14', 'S6', 'Q3')",S14,1st_year,with_AI,50.0,2,False
+"('S14', 'S6', 'Q4')",S14,1st_year,with_AI,78.0,3,True
+"('S15', 'S1', 'Q1')",S15,4th_year,with_AI,1274.0,36,False
+"('S15', 'S1', 'Q2')",S15,4th_year,with_AI,631.0,18,False
+"('S15', 'S1', 'Q3')",S15,4th_year,with_AI,248.0,6,False
+"('S15', 'S1', 'Q4')",S15,4th_year,with_AI,182.0,6,False
+"('S15', 'S2', 'Q1')",S15,4th_year,with_AI,678.0,8,False
+"('S15', 'S2', 'Q2')",S15,4th_year,with_AI,633.0,9,False
+"('S15', 'S2', 'Q3')",S15,4th_year,with_AI,451.0,6,False
+"('S15', 'S2', 'Q4')",S15,4th_year,with_AI,498.0,15,False
+"('S15', 'S2', 'Q5')",S15,4th_year,with_AI,497.0,10,False
+"('S15', 'S2', 'Q6')",S15,4th_year,with_AI,256.0,7,False
+"('S15', 'S3', 'Q1')",S15,4th_year,with_AI,573.0,8,False
+"('S15', 'S3', 'Q2')",S15,4th_year,with_AI,192.0,7,False
+"('S15', 'S4', 'Q1')",S15,4th_year,with_AI,192.0,9,False
+"('S15', 'S4', 'Q2')",S15,4th_year,with_AI,91.0,5,False
+"('S15', 'S5', 'Q1')",S15,4th_year,with_AI,342.0,13,False
+"('S15', 'S6', 'Q1')",S15,4th_year,with_AI,102.0,2,False
+"('S15', 'S6', 'Q2')",S15,4th_year,with_AI,17.0,2,False
+"('S15', 'S6', 'Q3')",S15,4th_year,with_AI,28.0,2,False
+"('S15', 'S6', 'Q4')",S15,4th_year,with_AI,106.0,3,True
+"('S16', 'S1', 'Q1')",S16,4th_year,with_AI,359.0,14,False
+"('S16', 'S1', 'Q2')",S16,4th_year,with_AI,126.0,3,False
+"('S16', 'S1', 'Q3')",S16,4th_year,with_AI,73.0,3,False
+"('S16', 'S1', 'Q4')",S16,4th_year,with_AI,180.0,6,False
+"('S16', 'S2', 'Q1')",S16,4th_year,with_AI,124.0,3,False
+"('S16', 'S2', 'Q2')",S16,4th_year,with_AI,29.0,1,False
+"('S16', 'S2', 'Q3')",S16,4th_year,with_AI,66.0,1,False
+"('S16', 'S2', 'Q4')",S16,4th_year,with_AI,186.0,3,False
+"('S16', 'S2', 'Q5')",S16,4th_year,with_AI,19.0,1,False
+"('S16', 'S2', 'Q6')",S16,4th_year,with_AI,75.0,1,False
+"('S16', 'S3', 'Q1')",S16,4th_year,with_AI,131.0,4,False
+"('S16', 'S3', 'Q1, Q2')",S16,4th_year,with_AI,30.0,1,False
+"('S16', 'S3', 'Q2')",S16,4th_year,with_AI,303.0,10,False
+"('S16', 'S3, S4, S5', 'Q1')",S16,4th_year,with_AI,90.0,3,False
+"('S16', 'S4', 'Q1')",S16,4th_year,with_AI,93.0,4,False
+"('S16', 'S4', 'Q2')",S16,4th_year,with_AI,58.0,3,False
+"('S16', 'S5', 'Q1')",S16,4th_year,with_AI,95.0,4,False
+"('S16', 'S5, S3, S4', 'Q6')",S16,4th_year,with_AI,27.0,1,False
+"('S16', 'S6', 'Q1')",S16,4th_year,with_AI,44.0,1,False
+"('S16', 'S6', 'Q1, Q2, Q3, Q4')",S16,4th_year,with_AI,164.0,1,False
+"('S16', 'S6', 'Q1, Q2, Q3, Q5')",S16,4th_year,with_AI,29.0,1,False
+"('S16', 'S6', 'Q1, Q2, Q3, Q6')",S16,4th_year,with_AI,29.0,1,False
+"('S16', 'S6', 'Q1, Q2, Q3, Q7')",S16,4th_year,with_AI,81.0,2,True
+"('S18', 'S1', 'Q1')",S18,4th_year,with_AI,214.0,10,False
+"('S18', 'S1', 'Q2')",S18,4th_year,with_AI,141.0,5,False
+"('S18', 'S1', 'Q3')",S18,4th_year,with_AI,98.0,6,False
+"('S18', 'S1', 'Q4')",S18,4th_year,with_AI,120.0,7,False
+"('S18', 'S2', 'Q1')",S18,4th_year,with_AI,97.0,4,False
+"('S18', 'S2', 'Q2')",S18,4th_year,with_AI,206.0,8,False
+"('S18', 'S2', 'Q3')",S18,4th_year,with_AI,77.0,4,False
+"('S18', 'S2', 'Q4')",S18,4th_year,with_AI,190.0,8,False
+"('S18', 'S2', 'Q5')",S18,4th_year,with_AI,83.0,4,False
+"('S18', 'S2', 'Q6')",S18,4th_year,with_AI,114.0,4,False
+"('S18', 'S3', 'Q1')",S18,4th_year,with_AI,166.0,8,False
+"('S18', 'S3', 'Q2')",S18,4th_year,with_AI,762.0,28,False
+"('S18', 'S4', 'Q1')",S18,4th_year,with_AI,95.0,9,False
+"('S18', 'S4', 'Q2')",S18,4th_year,with_AI,86.0,8,False
+"('S18', 'S5', 'Q5, Q1')",S18,4th_year,with_AI,301.0,19,False
+"('S18', 'S6', 'Q1')",S18,4th_year,with_AI,62.0,3,False
+"('S18', 'S6', 'Q2')",S18,4th_year,with_AI,193.0,10,False
+"('S18', 'S6', 'Q3')",S18,4th_year,with_AI,160.0,6,False
+"('S18', 'S6', 'Q4')",S18,4th_year,with_AI,133.0,8,True
+"('S2', 'S1', 'Q1')",S2,1st_year,with_AI,609.0,27,False
+"('S2', 'S2', 'Q1')",S2,1st_year,with_AI,109.0,7,False
+"('S2', 'S3', 'Q1')",S2,1st_year,with_AI,181.0,9,False
+"('S2', 'S4', 'Q1')",S2,1st_year,with_AI,209.0,10,False
+"('S2', 'S4', 'Q2')",S2,1st_year,with_AI,183.0,12,False
+"('S2', 'S6', 'Q1')",S2,1st_year,with_AI,1109.0,25,False
+"('S2', 'S6', 'Q4')",S2,1st_year,with_AI,187.0,2,False
+"('S3', 'S1', 'Q1')",S3,1st_year,with_AI,94.0,2,False
+"('S3', 'S1', 'Q2')",S3,1st_year,with_AI,829.0,22,False
+"('S3', 'S1', 'Q3')",S3,1st_year,with_AI,357.0,7,False
+"('S3', 'S1', 'Q4')",S3,1st_year,with_AI,724.0,16,False
+"('S3', 'S6', 'Q1')",S3,1st_year,with_AI,163.0,2,False
+"('S3', 'S6', 'Q2')",S3,1st_year,with_AI,16.0,2,False
+"('S3', 'S6', 'Q3')",S3,1st_year,with_AI,43.0,3,False
+"('S3', 'S6', 'Q4')",S3,1st_year,with_AI,59.0,4,True
+"('S6', 'S1', 'Q1')",S6,1st_year,with_AI,751.0,9,False
+"('S6', 'S1', 'Q2')",S6,1st_year,with_AI,268.0,4,False
+"('S6', 'S1', 'Q3')",S6,1st_year,with_AI,366.0,4,False
+"('S6', 'S1', 'Q4')",S6,1st_year,with_AI,462.0,3,False
+"('S6', 'S2', 'Q1')",S6,1st_year,with_AI,203.0,3,False
+"('S6', 'S2', 'Q2')",S6,1st_year,with_AI,208.0,3,False
+"('S6', 'S2', 'Q3')",S6,1st_year,with_AI,217.0,2,False
+"('S6', 'S2', 'Q4')",S6,1st_year,with_AI,175.0,2,False
+"('S6', 'S2', 'Q5')",S6,1st_year,with_AI,377.0,2,False
+"('S6', 'S3', 'Q1')",S6,1st_year,with_AI,101.0,2,False
+"('S6', 'S4', 'Q1')",S6,1st_year,with_AI,96.0,2,False
+"('S6', 'S4', 'Q2')",S6,1st_year,with_AI,13.0,2,False
+"('S6', 'S5', 'Q1')",S6,1st_year,with_AI,183.0,2,False
+"('S6', 'S6', 'Q1')",S6,1st_year,with_AI,28.0,2,False
+"('S6', 'S6', 'Q1, Q2, Q3, Q7')",S6,1st_year,with_AI,200.0,1,False
+"('S6', 'S6', 'Q2')",S6,1st_year,with_AI,40.0,2,False
+"('S6', 'S6', 'Q3')",S6,1st_year,with_AI,63.0,2,False
+"('S6', 'S6', 'Q4')",S6,1st_year,with_AI,192.0,6,True
+"('S9', 'S1', 'Q1')",S9,4th_year,with_AI,2061.0,48,False
+"('S9', 'S1', 'Q2')",S9,4th_year,with_AI,491.0,9,False
+"('S9', 'S1', 'Q3')",S9,4th_year,with_AI,245.0,7,False
+"('S9', 'S1', 'Q4')",S9,4th_year,with_AI,202.0,6,False
+"('S9', 'S1', 'Q6')",S9,4th_year,with_AI,272.0,4,True
+"('S9', 'S2', 'Q1')",S9,4th_year,with_AI,606.0,12,False
+"('S9', 'S2', 'Q2')",S9,4th_year,with_AI,637.0,11,False
+"('S9', 'S2', 'Q3')",S9,4th_year,with_AI,248.0,9,False
+"('S9', 'S2', 'Q4')",S9,4th_year,with_AI,355.0,8,False
+"('S9', 'S2', 'Q5')",S9,4th_year,with_AI,151.0,5,False
+"('S9', 'S2', 'Q6')",S9,4th_year,with_AI,111.0,2,False
+"('S9', 'S3', 'Q1')",S9,4th_year,with_AI,330.0,13,False
+"('S9', 'S3', 'Q2')",S9,4th_year,with_AI,322.0,7,False
+"('S9', 'S4', 'Q1')",S9,4th_year,with_AI,95.0,5,False
+"('S9', 'S4', 'Q2')",S9,4th_year,with_AI,69.0,5,False
+"('S9', 'S5', 'Q1')",S9,4th_year,with_AI,222.0,11,False
+"('S9', 'S6', 'Q1')",S9,4th_year,with_AI,2.0,1,False
+"('S9', 'S6', 'Q2')",S9,4th_year,with_AI,26.0,2,False
+"('S9', 'S6', 'Q3')",S9,4th_year,with_AI,52.0,2,False
+"('S9', 'S6', 'Q4')",S9,4th_year,with_AI,258.0,2,False
